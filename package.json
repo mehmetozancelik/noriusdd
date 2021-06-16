@@ -1,0 +1,19 @@
+{
+  "name": "norius",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mehmet",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord-player": "^3.3.2",
+    "discord.js": "^12.5.1",
+    "ffmpeg-static": "^4.3.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2"
+  }
+}
